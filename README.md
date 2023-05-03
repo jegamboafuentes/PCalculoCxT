@@ -24,6 +24,3 @@ To get started, clone the repository and import the project into your IDE. Then,
 
 The documentation for the project is available [here](https://github.com/jegamboafuentes/PCalculoCxT/wiki).
 
-## Contact
-
-If you have any questions or feedback, please contact me at jegamboafuentes@gmail.com.
